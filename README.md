@@ -1,6 +1,6 @@
 ## Classes 02
 
-![img](assesst/confusion.jpg)
+![img](assesst/logo.png)
 
 
 
