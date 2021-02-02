@@ -1,4 +1,4 @@
-#### Differenc Between Text Editor
+# Differenc Between Text Editor
 
 ### If you want to start programing and you are confusing with text editor to choose? or even you don't know what is text editor?
 
